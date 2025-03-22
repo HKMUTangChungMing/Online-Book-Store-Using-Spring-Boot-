@@ -210,3 +210,19 @@ http://localhost:8084/CSApp/books
 ----
 
 ## JSP 檔案簡介
+
+## 補充說明:
+
+## 假設開不到怎樣辨
+
+![image-20250322133823360](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250322133823360.png) 
+
+![image-20250322133813997](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250322133813997.png)
+
+## 可以在 Setting 裡，Build and run using : 配置  及 Run tests using : 配置 IntelliJ IDEA
+
+![image-20250322133441280](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250322133441280.png) 
+
+![image-20250322133520315](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250322133520315.png)
+
+
