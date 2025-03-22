@@ -1,8 +1,5 @@
 # Online-Book-Store-Using-Spring-Boot-
 This is using IntelliJ Idea to create the Spring Boot Server with Java !!! ~~~🐺
-# Book-Shop-Project-of-Spring-Boot-Web-Server
-
-This is using IntelliJ Idea to create the Spring Boot Server with Java !!! ~~~🐺
 
 # ![Untitled-1](http://pdm888.oss-cn-beijing.aliyuncs.com/img/Untitled-1.png)下載 IntelliJ IDEA Ultimate
 
